@@ -16,6 +16,6 @@ public class GithubCicdProjectApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(GithubCicdProjectApplication.class, args);
-	}
 
+	}
 }
